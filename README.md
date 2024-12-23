@@ -1,5 +1,4 @@
 # es.react.dev
-
 Este repositorio contiene el código fuente y la documentación de [es.react.dev](https://es.react.dev/).
 
 ## Comenzar
